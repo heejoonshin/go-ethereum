@@ -25,11 +25,11 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ethereum/go-ethereum/p2p/enode"
+	"github.com/heejoonshin/go-ethereum/p2p/enode"
 
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
+	"github.com/heejoonshin/go-ethereum/event"
+	"github.com/heejoonshin/go-ethereum/log"
+	"github.com/heejoonshin/go-ethereum/metrics"
 )
 
 const (

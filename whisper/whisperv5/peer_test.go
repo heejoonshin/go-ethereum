@@ -24,11 +24,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/nat"
+	"github.com/heejoonshin/go-ethereum/common"
+	"github.com/heejoonshin/go-ethereum/crypto"
+	"github.com/heejoonshin/go-ethereum/p2p"
+	"github.com/heejoonshin/go-ethereum/p2p/enode"
+	"github.com/heejoonshin/go-ethereum/p2p/nat"
 )
 
 var keys = []string{
